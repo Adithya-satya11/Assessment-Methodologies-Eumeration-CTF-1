@@ -3,6 +3,7 @@
 # 🛡️ Linux Service Enumeration & Exploitation Lab
 
 **Target:** `target.ine.local`
+
 **Objective:** Enumerate running services (Samba, FTP, SSH) to identify misconfigurations and weak credentials to capture 4 hidden flags.
 
 ---
